@@ -1,5 +1,5 @@
 # cs5200-spring2018-nandu
-CS5200 Coursework
+Java Spring HIbernate Project
 '
 ## Integrating Spring Boot with MySQL
 
